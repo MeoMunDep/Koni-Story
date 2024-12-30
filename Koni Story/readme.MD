@@ -32,9 +32,11 @@ To get started with the bot, follow these steps:
 
 ```json
 {
-  "limit": 5, //number of accounts run in a row
-  "countdown": 300, //time to restarts all the accounts - count by seconds
-  "country_time": "vi-VN" //timestamp base on the country
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "referralCode": "UZnOiJctb",
+  "delayEachAccount": [1, 81]
 }
 ```
 
@@ -66,6 +68,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `node bot`
+> To run the bot, use the following command: `cd "koni story-main/koni story"; node bot`
 
 🎇Enjoy!
