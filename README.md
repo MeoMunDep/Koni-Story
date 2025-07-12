@@ -45,7 +45,6 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 {
   "limit": 100,
   "countdown": 300,
-  "country_time": "en-US",
   "referralCode": "UZnOiJctb",
   "delayEachAccount": [1, 81]
 }
@@ -72,6 +71,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd "koni story"; node meomundep`
+> To run the bot, use the following command: `cd "koni-story"; node meomundep`
 
 🎇Enjoy!
